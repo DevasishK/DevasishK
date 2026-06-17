@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="YOUR_BANNER_URL" alt="Banner"/>
+</p>
+Devasish Viswanadh Kolla
+AI Researcher • Cybersecurity • Full-Stack Developer
+
+AWS Certified | IEEE Published Author | Patent Applicant
+
 <h1 align="center">Hi 👋, I'm Devasish Viswanadh Kolla</h1>
 
 <h3 align="center">AI Researcher • Cybersecurity Enthusiast • Full-Stack Developer</h3>
@@ -31,6 +40,15 @@
 - Web Application Security Assessments
 
 ---
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
 
 ## 🏆 Achievements
 
