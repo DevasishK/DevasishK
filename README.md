@@ -1,12 +1,6 @@
-
 <p align="center">
-  <img src="YOUR_BANNER_URL" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/DevasishK/DevasishK/main/banner.png" alt="GitHub Banner"/>
 </p>
-Devasish Viswanadh Kolla
-AI Researcher • Cybersecurity • Full-Stack Developer
-
-AWS Certified | IEEE Published Author | Patent Applicant
-
 <h1 align="center">Hi 👋, I'm Devasish Viswanadh Kolla</h1>
 
 <h3 align="center">AI Researcher • Cybersecurity Enthusiast • Full-Stack Developer</h3>
