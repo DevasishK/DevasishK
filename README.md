@@ -33,17 +33,6 @@
 - Secure Backend Systems with Spring Boot
 - Web Application Security Assessments
 
----
-## 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-
 ## 🏆 Achievements
 
 - 📄 IEEE Published Author
@@ -98,52 +87,40 @@ System and Method for Detecting Hallucinated Information in AI-Generated Summari
 
 ## 💻 Tech Stack
 
-### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-Java
-Python
-C++
-SQL
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-008080?style=for-the-badge)
+![LIME](https://img.shields.io/badge/LIME-228B22?style=for-the-badge)
 
-### AI / Machine Learning
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-PyTorch
-Transformers
-Scikit-Learn
-XGBoost
-SHAP
-LIME
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend & Databases
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-Spring Boot
-FastAPI
-PostgreSQL
-MySQL
-
-### Frontend
-
-React
-TypeScript
-TailwindCSS
-Vite
-
-### Cybersecurity
-
-OWASP
-Burp Suite
-OWASP ZAP
-Wireshark
-
-### Cloud & DevOps
-
-AWS
-Docker
-Git
-GitHub Actions
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -161,18 +138,44 @@ GitHub Actions
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I've Been Building
 
-| Project | Description |
-|----------|------------|
-| Faithful Text Summarization | BART-based summarization with ROUGE, BERTScore & NLI evaluation |
-| Dialogue Summarization Context Ablation | IEEE Published Research Project |
-| Secure File Locker | AES-based file encryption using C++ and OpenSSL |
-| JWT Authentication Backend | Spring Boot authentication system |
-| Loan Default Risk Analyzer | Explainable AI for NBFC credit risk prediction |
-| Personal Portfolio | Modern React + Vite developer portfolio |
-￼
+### 🤖 Faithful Text Summarization
+Explored the reliability of AI-generated summaries using BART, ROUGE, BERTScore, and NLI-based faithfulness evaluation. Focused on identifying hallucinations and improving trust in Generative AI systems.
+
+### 📄 Dialogue Summarization Research
+Author of the IEEE publication "The Perils of Naive Truncation: A Context Ablation Study for Dialogue Summarization on DialogSum". Investigated how context loss impacts summary quality in transformer-based dialogue summarization.
+
+### 🔐 Secure File Locker
+Engineered a cryptography-driven file protection system in C++ using AES encryption, SHA hashing, and secure access controls to ensure confidentiality and integrity.
+
+### 🔑 JWT Authentication Backend
+Designed a secure Spring Boot backend implementing JWT-based authentication, authorization, and role-based access control for modern web applications.
+
+### 💰 Loan Default Risk Analyzer
+Building an Explainable AI framework for NBFCs using ensemble learning, SHAP, and LIME to make credit risk predictions transparent and actionable.
+
+### 🌐 Personal Portfolio
+Crafted a modern, interactive portfolio showcasing research, projects, certifications, and technical expertise with React, TypeScript, Tailwind CSS, and Vite.
 
 ---
 
-### 💡 Building Secure, Explainable, and Impactful Technology Soluti
+## 🎯 Areas I Love Exploring
+
+🧠 Artificial Intelligence & Machine Learning
+
+🔍 Explainable AI (XAI)
+
+📚 Natural Language Processing
+
+🛡️ Cybersecurity & Secure Software Development
+
+☁️ Cloud Computing & Backend Systems
+
+💹 FinTech & Data-Driven Decision Making
+
+---
+
+## 💡 My Mission
+
+To build trustworthy AI systems, secure software, and scalable technology solutions that solve meaningful real-world problems while maintaining transparency, reliability, and user trust.
