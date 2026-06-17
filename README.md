@@ -1,186 +1,179 @@
-# Hi, I'm Devasish Viswanadh Kolla 👋
+<h1 align="center">Hi 👋, I'm Devasish Viswanadh Kolla</h1>
 
-🎓 Final-Year B.Tech Computer Science Student at SRM University AP (CGPA: 8.47)
+<h3 align="center">AI Researcher • Cybersecurity Enthusiast • Full-Stack Developer</h3>
 
-🔬 AI Researcher | 🛡️ Cybersecurity Enthusiast | 💻 Full-Stack Developer
-
----
-
-## About Me
-
-I am passionate about building secure, scalable, and intelligent systems that combine software engineering, cybersecurity, and artificial intelligence.
-
-My interests span:
-
-- Artificial Intelligence & Machine Learning
-- Natural Language Processing (NLP)
-- Explainable AI (XAI)
-- Cybersecurity & Web Application Security
-- Full-Stack Development
-- Cloud Computing & DevOps
-- FinTech Solutions
+<p align="center">
+  <a href="https://devasishkolla.in">Portfolio</a> •
+  <a href="https://linkedin.com/in/devasish-viswanadh-kolla">LinkedIn</a> •
+  <a href="mailto:devasishkolla@yahoo.com">Email</a>
+</p>
 
 ---
 
-## Technical Skills
+## 🚀 About Me
 
-### Programming Languages
+🎓 Final-Year B.Tech Computer Science Student @ SRM University AP
 
-- Java
-- Python
-- C++
-- SQL
-- Bash
+🔬 IEEE Published Author
 
-### AI & Machine Learning
+📜 Patent Applicant in Trustworthy AI
 
-- Machine Learning
-- Natural Language Processing
-- Transformers
-- XGBoost
-- SHAP
-- LIME
+☁️ AWS Certified Cloud Practitioner
 
-### Cybersecurity
+🛡️ Cybersecurity Intern @ APTS & APCSOC (Govt. of Andhra Pradesh)
 
-- Penetration Testing
-- OWASP Top 10
-- Burp Suite
-- OWASP ZAP
-- SAST / DAST
-- Threat Modeling
-- Secure Code Review
-- Cryptography
-- Vulnerability Assessment
+🤖 Passionate about AI, NLP, Explainable AI, Cybersecurity, Cloud Computing, and FinTech
 
-### Backend Development
-
-- Spring Boot
-- FastAPI
-- REST APIs
-- JWT Authentication
-- PostgreSQL
-- MySQL
-
-### Cloud & Tools
-
-- AWS (EC2, IAM, S3)
-- Docker
-- Git
-- GitHub Actions
-- Linux
+🌱 Currently working on:
+- Loan Default Risk Analyzer using Explainable AI
+- AI Hallucination Detection Research
+- Secure Backend Systems with Spring Boot
+- Web Application Security Assessments
 
 ---
 
-## Featured Projects
+## 🏆 Achievements
 
-### 🔐 Secure File Locker
-
-AES-based file encryption system built in C++ with OpenSSL.
-
-Tech Stack: C++, OpenSSL, Cryptography
-
-### 🔑 JWT Authentication Backend
-
-Secure authentication and authorization system using Spring Boot, JWT, and MySQL.
-
-Tech Stack: Java, Spring Boot, JWT, MySQL
-
-### 🛒 Shop Forage
-
-Full-stack e-commerce management platform with secure REST APIs.
-
-Tech Stack: React, Spring Boot, MySQL
-
-### 🌐 Personal Portfolio
-
-Modern developer portfolio showcasing projects, research, certifications, and achievements.
-
-Tech Stack: React, Vite, Tailwind CSS, AWS
-
-### 🤖 Faithful Text Summarization
-
-Research project evaluating BART-generated summaries using ROUGE, BERTScore, and NLI-based faithfulness assessment.
-
-Tech Stack: Python, Transformers, NLP
-
-### 💰 Loan Default Risk Analyzer
-
-Explainable AI framework for predicting loan defaults using ensemble models, SHAP, and LIME.
-
-Tech Stack: Python, XGBoost, SHAP, LIME
+- 📄 IEEE Published Author
+- 📜 Patent Application Filed
+- ☁️ AWS Certified Cloud Practitioner
+- 🎓 Merit Scholarship (75% Tuition Waiver)
+- 🥉 Bronze Medalist – Karate Kata
+- 🛡️ Cybersecurity Intern – Government of Andhra Pradesh
 
 ---
 
-## Publications
+## 📚 Research & Publications
 
-### 📄 IEEE Publication
+### 📄 The Perils of Naive Truncation: A Context Ablation Study for Dialogue Summarization on DialogSum
 
-The Perils of Naive Truncation: A Context Ablation Study for Dialogue Summarization on DialogSum
+- Published at IEEE AISP 2025
+- Evaluated dialogue truncation strategies using transformer models
+- Analyzed effects of context ablation using ROUGE and BERTScore
 
-Research investigating how dialogue truncation affects summarization quality using transformer-based NLP models.
-
----
-
-## Patent Work
-
-### 📌 Patent Application
+### 📌 Patent Work
 
 System and Method for Detecting Hallucinated Information in AI-Generated Summaries Using Multi-Stage Verification Architecture
 
-Proposed a novel verification framework combining:
-
-- NLI-based entailment analysis
-- Sentence-level decomposition
-- Multi-stage validation
-- Composite Faithfulness Risk (CFR) scoring
-
-to identify hallucinated information in AI-generated summaries.
+- NLI-based verification
+- Composite Faithfulness Risk (CFR) Score
+- Multi-stage hallucination detection
+- Sentence-level fact validation
 
 ---
 
-## Certifications
+## 🌐 Connect With Me
 
-- AWS Certified Cloud Practitioner
-- Cisco CCST Cybersecurity
-- NPTEL – Python
-- NPTEL – Interpersonal Skills
-- CompTIA Security+ (In Progress)
+<p align="left">
+<a href="https://linkedin.com/in/devasish-viswanadh-kolla">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://github.com/DevasishK">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## Achievements
+<a href="https://devasishkolla.in">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-🏆 IEEE Published Author
-
-🏆 Merit Scholarship Recipient (75% Tuition Waiver)
-
-🏆 Bronze Medalist – Karate Kata
-
-🏆 Cybersecurity Intern – Government of Andhra Pradesh
-
----
-
-## Current Focus
-
-- Explainable AI for FinTech Applications
-- AI Hallucination Detection
-- Web Application Security
-- Cloud-Native Backend Systems
-- Generative AI Research
+<a href="mailto:devasishkolla@yahoo.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## Connect With Me
+## 💻 Tech Stack
 
-🌐 Portfolio: https://devasishkolla.in
+### Languages
 
-💼 LinkedIn: https://linkedin.com/in/devasish-viswanadh-kolla
+Java
+Python
+C++
+SQL
 
-📧 Email: devasishkolla@yahoo.com
+### AI / Machine Learning
 
-🐙 GitHub: https://github.com/DevasishK
+PyTorch
+Transformers
+Scikit-Learn
+XGBoost
+SHAP
+LIME
+
+### Backend & Databases
+
+Spring Boot
+FastAPI
+PostgreSQL
+MySQL
+
+### Frontend
+
+React
+TypeScript
+TailwindCSS
+Vite
+
+### Cybersecurity
+
+OWASP
+Burp Suite
+OWASP ZAP
+Wireshark
+
+### Cloud & DevOps
+
+AWS
+Docker
+Git
+GitHub Actions
 
 ---
 
-"Building secure, explainable, and impactful technology solutions."
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevasishK&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevasishK&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevasishK&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=DevasishK&theme=tokyonight&margin-w=10&row=2&column=4"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|------------|
+| Faithful Text Summarization | BART-based summarization with ROUGE, BERTScore & NLI evaluation |
+| Dialogue Summarization Context Ablation | IEEE Published Research Project |
+| Secure File Locker | AES-based file encryption using C++ and OpenSSL |
+| JWT Authentication Backend | Spring Boot authentication system |
+| Loan Default Risk Analyzer | Explainable AI for NBFC credit risk prediction |
+| Personal Portfolio | Modern React + Vite developer portfolio |
+
+---
+
+## 📈 Profile Views
+
+￼
+
+---
+
+### 💡 Building Secure, Explainable, and Impactful Technology Soluti
