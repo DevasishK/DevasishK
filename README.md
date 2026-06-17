@@ -149,14 +149,6 @@ GitHub Actions
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DevasishK&theme=tokyonight&margin-w=10&row=2&column=4"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description |
@@ -167,11 +159,6 @@ GitHub Actions
 | JWT Authentication Backend | Spring Boot authentication system |
 | Loan Default Risk Analyzer | Explainable AI for NBFC credit risk prediction |
 | Personal Portfolio | Modern React + Vite developer portfolio |
-
----
-
-## 📈 Profile Views
-
 ￼
 
 ---
